@@ -1,2 +1,5 @@
 # hello-world
-#("Olwethu")
+#("about me")
+
+# My name is Olwethu Khotobe
+
